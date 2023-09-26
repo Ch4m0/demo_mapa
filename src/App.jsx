@@ -16,7 +16,6 @@ function CambiarFondo() {
 
   return (
     <div style={{ width: "100%" }}>
-      <h1>HOla</h1>
       <div
         style={{
           backgroundImage: backgroundChanged
